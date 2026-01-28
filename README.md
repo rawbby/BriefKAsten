@@ -7,7 +7,7 @@ This has been developed as part of our work on [distributed triangle counting](h
 If you use this code in the context of an academic publication, we kindly ask you to cite [the corresponding paper](https://doi.org/10.1109/IPDPS54959.2023.00076):
 
 ```bibtex
-@inproceedings{sanders2023
+@inproceedings{sanders2023,
   author       = {Peter Sanders and
                   Tim Niklas Uhl},
   title        = {Engineering a Distributed-Memory Triangle Counting Algorithm},
